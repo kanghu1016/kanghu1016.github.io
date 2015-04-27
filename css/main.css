@@ -925,8 +925,8 @@ body {
   position: relative;
   display: inline-block;
   padding: 0 25px;
-  color: #fff;
-  background: #222;
+  color: #222;
+  background: #fff;
   border-bottom: none;
   font-family: Lato, "Microsoft Jhenghei", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
 }
@@ -1149,7 +1149,7 @@ input.menu-search-input {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #67b8f6;
+  background: #9affe9;
 }
 .sidebar-nav {
   margin: 0;
